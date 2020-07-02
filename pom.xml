@@ -9,7 +9,7 @@
 		<spring-version>5.2.1.RELEASE</spring-version>
 		<dubbo-version>2.6.4</dubbo-version>
 		<mybatis-plus-version>2.3</mybatis-plus-version>
-		<jdbc-version>5.1.37</jdbc-version>
+		<jdbc-version>8.0.16</jdbc-version>
 		<zkclient-version>0.10</zkclient-version>
 		<servlet-version>2.5</servlet-version>
 	</properties>
